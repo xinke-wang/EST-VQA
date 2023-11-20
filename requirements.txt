@@ -1,0 +1,4 @@
+zhconv
+Levenshtein
+numpy
+shapely
