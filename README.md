@@ -1,4 +1,4 @@
-# EST-VQA Dataset
+# On the General Value of Evidence, and Bilingual Scene-Text Visual Question Answering
 
 
 Since the host server of EST-VQA dataset is no longer available, we provide the download link of the dataset in this repository.
